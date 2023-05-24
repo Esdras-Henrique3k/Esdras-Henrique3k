@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esdras-henrique3k&label=Profile%20views&color=0e75b6&style=flat" alt="esdras-henrique3k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esdras-henrique3k" alt="esdras-henrique3k" /></a> </p>
-
 - 👨‍💻 Alguns dos meus projetos estão aqui: [https://www.ehop.com.br/](https://www.ehop.com.br/)
 
 <h3 align="left">Connect with me:</h3>
