@@ -1,5 +1,5 @@
 <h1 align="center">Opa 👋, Eu sou o Esdras</h1>
-<h3 align="center">Sou um jovem desenvolvedor FullStack que inciei minha vida na programação em 2016, logo nos 2 anos seguintes me destaquei na OBI - Olimpíada Brasileira de Informática ficando entre os 100 melhores do pais chegando na 3° e ultima fase da competição, em 2021 entrei no mercado de trabalho, e logo na minha primeira empresa fui o principal responsável pelo desenvolvimento de uma plataforma de vendas que em 2022 obteve mais de 40 mil vendas com exito sendo esse meu maior feito profissional ate então</h3>
+<h3 align="center">Sou um jovem desenvolvedor Full Stack que inciei minha vida na programação em 2016, logo nos 2 anos seguintes me destaquei na OBI - Olimpíada Brasileira de Informática ficando entre os 100 melhores do pais chegando na 3° e ultima fase da competição, em 2021 entrei no mercado de trabalho, e logo na minha primeira empresa fui o principal responsável pelo desenvolvimento de uma plataforma de vendas que em 2022 obteve mais de 40 mil vendas com exito sendo esse meu maior feito profissional ate então</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esdras-henrique3k&label=Profile%20views&color=0e75b6&style=flat" alt="esdras-henrique3k" /> </p>
 
